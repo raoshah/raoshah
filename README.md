@@ -1,3 +1,4 @@
 ### Hi there 👋
 i create this Django app for my resume .
-- 🌱 I’m currently learning ...
+i have good knowledge about python, SQL.
+- 🌱 I’m currently learning, Django, Javascript, 
