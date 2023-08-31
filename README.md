@@ -1,0 +1,3 @@
+### Hi there 👋
+i create this Django app for my resume .
+- 🌱 I’m currently learning ...
