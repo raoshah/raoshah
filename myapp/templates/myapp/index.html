@@ -1,11 +1,67 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shah Rukh Rao</title>
+    <link rel="stylesheet" href="{% static 'myapp/style.css' %}">
+    <title>My Resume</title>
 </head>
 <body>
-    <h1>Hi, i am Shah Rukh Rao</h1>
+    <nav class="navbar">
+        <div class="navbar-left">
+            <h1 style="font-size: large;">Shah Rukh Rao</h1>
+        </div>
+        <div class="navbar-right">
+            <img src="{% static 'myapp/images/shahrukh.png' %}" alt="Logo">
+        </div>
+    </nav>
+    <section class="about">
+        <p style="color: #fff; font-size: small; margin-bottom: 1px;">
+            I'm a programmer and web developer with strong skills in Python, Django, and SQL. I'm experienced in creating websites and databases. I also know some JavaScript, CSS, Rust, and Flask. I enjoy writing clean code and aim to make websites that work well for users and businesses. I've built scalable web systems and can be a helpful team member. I like learning about new tech trends and enjoy working on exciting projects.
+        </p>
+    </section>
+    <section class="skills">
+        <h2>Skills</h2>
+        <div class="skills-container">
+            <div class="skill-category">
+                <h3>Proficient:</h3>
+                <ul>
+                    <li>Python</li>
+                    <li>Django</li>
+                    <li>SQL</li>
+                </ul>
+            </div>
+            <div class="skill-category">
+                <h3>Web Development:</h3>
+                <ul>
+                    <li>JavaScript</li>
+                    <li>CSS</li>
+                    <li>Flask</li>
+                </ul>
+            </div>
+            <div class="skill-category">
+                <h3>Other:</h3>
+                <ul>
+                    <li>Rust</li>
+                    <li>Problem Solving</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    
+    
+    
+    <section class="portfolio">
+        <h2>Portfolio</h2>
+        <ul>
+            <li>
+                <strong>Project 1:</strong> <a href="https://project1-link.com">Project 1 Name</a>
+            </li>
+            <li>
+                <strong>Project 2:</strong> <a href="https://project2-link.com">Project 2 Name</a>
+            </li>
+        </ul>
+    </section>
 </body>
 </html>
