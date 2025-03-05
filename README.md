@@ -4,22 +4,12 @@ I'm a passionate **Full Stack Developer** specializing in **Django**, **ReactJS*
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, JavaScript, HTML, CSS
-- **Backend**: Django, Django REST Framework
+- **Backend**: Django, Rust
 - **Frontend**: ReactJS, Redux, HTML/CSS (no Bootstrap)
 - **Mobile Development**: React Native
 - **Databases**: PostgreSQL, MySQL, SQLite
-- **Deployment**: Vercel, Heroku
 - **Version Control**: Git, GitHub
-
-## 🌐 Currently Working On
-- **Raosha E-commerce Website**: Building a React e-commerce platform with Django as the backend
-- **Ghumar Trend**: A React-based project focused on trendy fashion products
-
-## 💼 Recent Projects
-- **Order Payment System** - An e-commerce payment system using Django.
-- **Responsive Navbar** - A modern, responsive navigation bar for React applications.
-- **Redux Cart Management** - State management for shopping carts in React applications.
-
+- 
 ## 📫 How to Reach Me
 - **Number**: 9269562264
 - **Email**: shahrukhrao1@gmail.com
